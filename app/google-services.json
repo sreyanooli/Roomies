@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1030241075421",
+    "firebase_url": "https://roomies-1f63a.firebaseio.com",
+    "project_id": "roomies-1f63a",
+    "storage_bucket": "roomies-1f63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030241075421:android:77a77709b3681b0e",
+        "android_client_info": {
+          "package_name": "edu.niu.cs.shreya.roomies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030241075421-d3asrk4olecvofak335oln0ksb8ahm91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.niu.cs.shreya.roomies",
+            "certificate_hash": "fba614407d8a67fbeb42c5de1442957a712cc417"
+          }
+        },
+        {
+          "client_id": "1030241075421-8v5d2u8k95s1oep3kmf4559mou164una.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGj085xNLMOfFWERGB0Bjs02MPgdAWAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030241075421-8v5d2u8k95s1oep3kmf4559mou164una.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
